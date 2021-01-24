@@ -1,12 +1,3 @@
-# Firebase Email Authentication Example App
+# HEAL - A health and wellness application developed in Android Studio
 
-In this application i have implemented firebase email authentication system. where user can create new account, login using the email and password.
-
-## Features 
-1. Create New account with email
-2. Saved user Data with FireStore 
-3. Forgot Password options
-4. Verify User Email
-
-
-https://www.youtube.com/embed/videoseries?list=PLlGT4GXi8_8dDK5Y3KCxuKAPpil9V49rN
+## HEAL is a health and wellness application developed in Android Studio for the cause of providing a single health monitoring platform for the daily physical needs of the user. These needs pertain to calorific intake, dietary assistance, Body-Mass Index measurement and fitness activities are undertaken by the user. Through this application we offer to simplify these processes by integrating various such moving parts into one common platform. 
