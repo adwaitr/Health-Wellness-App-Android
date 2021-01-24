@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215912275299",
+    "firebase_url": "https://heal-56bb1.firebaseio.com",
+    "project_id": "heal-56bb1",
+    "storage_bucket": "heal-56bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215912275299:android:2e282fcab4df0260bf4756",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215912275299-vjv6e6ear20oe1oj645u9g2goovefos4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.smallacademy.authenticatorapp",
+            "certificate_hash": "871b3a5265f1d293d6c4974ee520ed3aad4392eb"
+          }
+        },
+        {
+          "client_id": "215912275299-lad6bsk3nfcie5ubc2f7sd45vc1qvrfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIaRMBLrZSwDHHLXCWQFIgVP6yWdofIwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215912275299-lad6bsk3nfcie5ubc2f7sd45vc1qvrfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
